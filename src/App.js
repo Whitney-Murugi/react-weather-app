@@ -10,6 +10,7 @@ function App() {
         <h1>Hello student</h1>
         <Weathers city="Tokyo"/>
       </header>
+      <p>This project is <a href="https://github.com/Whitney-Murugi/react-weather-app"> one-sourced in Github</a>  and <a href="https://singular-melomakarona-d9c979.netlify.app/">hosted in Netlify </a> </p>
     </div>
   );
 }
