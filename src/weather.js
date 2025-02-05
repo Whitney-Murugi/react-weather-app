@@ -33,7 +33,7 @@ export default function Weathers(props) {
         </div>
         <div class="col-6">
           <p>
-            ⛅<span class="fs-1">7</span>℃
+            ⛅<span style={{fontSize:'60px'}}>7</span>℃
           </p>
         </div>
       </div>

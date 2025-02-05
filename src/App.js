@@ -10,7 +10,7 @@ function App() {
         <h1 class="text-danger">Weather Search☁</h1>
         <Weathers city="Tokyo"/>
       </header>
-      <p>This project is <a href="https://github.com/Whitney-Murugi/react-weather-app"> one-sourced in Github</a>  and <a href="https://singular-melomakarona-d9c979.netlify.app/">hosted on Netlify </a> </p>
+      <p>This project  by <a href="https://github.com/Whitney-Murugi"> Whitney Mmaitsi</a> is <a href="https://github.com/Whitney-Murugi/react-weather-app"> open-sourced in Github</a>  and <a href="https://singular-melomakarona-d9c979.netlify.app/">hosted on Netlify </a> </p>
     </div>
   );
 }
