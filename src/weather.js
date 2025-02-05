@@ -14,7 +14,7 @@ export default function Weathers(props) {
 
   return (
     <ClipLoader
-      color="#0000FF"
+      color="#00FFFF"
       loading="true"
       cssOverride={{
   ClipLoader
